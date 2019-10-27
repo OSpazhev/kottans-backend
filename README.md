@@ -22,3 +22,10 @@ helped me to remember basics.
 ### Impressions
 This course was very interesting, but many info were duplicated from Git basics. Also, there was not enough practice. 
 On the other hand, there were more complex things and was practice on GitHub. I've made PR and liked rebase before, so this course helped me to remember those pretty things.
+
+## [Python Basics Part I](https://github.com/kottans/backend/blob/master/tasks/python_basics_1.md)
+### Results
+[My HackerRank profile](https://www.hackerrank.com/SpOleM98)
+### Impressions
+This course has useful links for new to Python people. Most of those articles I've already read before(maybe in some books).<br>
+HackerRank tasks are interesting but I think the threshold is too low. Everyone spent at most 1 hour to achieve course aim(maybe even 30 mins).  
